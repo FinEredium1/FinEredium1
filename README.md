@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @FinEredium1 (Fardin Ahmed)
-- 👀 I’m interested in badminton, hiking, soccer and music
-- 🌱 I’m currently learning Java and Kotlin
-- 💞️ I’m looking to collaborate on some innovative projects
-- 📫 mail: fahmed71@gatech.edu
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am left handed!
+👋 Hi, I’m @FinEredium1 (Fardin Ahmed), a CS undergraduate at Georgia Institute of Technology. My interest lies in applied AI in financial forecasting.
+Check out my portfolio: https://fineredium1.github.io/
+
 
 <!---
 FinEredium1/FinEredium1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
